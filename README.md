@@ -8,6 +8,7 @@ Research Lab Members |
 NMH: 2018-present
 AK: 2018-2020
 BPF: 2018-2019
+JS: 2018-present
 ZJL: 2018-2021
 LJY: 2019-present
 DTM: 2019-present
