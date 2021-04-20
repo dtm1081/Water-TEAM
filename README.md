@@ -4,7 +4,7 @@ Water Treatment Engineering and Microbiomes
 This repository is for the sharing of research code used by the Water Treatment Engineering and Microbiomes Research Group under Dr. Natalie Hull at The Ohio State University.
 Date Created: April 20, 2021
 
-Research Lab Members
+Research Lab Members |
 NMH: 2018-present
 AK: 2018-2020
 BPF: 2018-2019
